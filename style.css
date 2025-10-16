@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2; /* soft light gray */
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    color: #444444; /* calm dark gray for text */
+}
+
+nav {
+    background-color: #555555; /* muted gray */
+    padding: 15px;
+}
+
+nav a {
+    color: #e0e0e0; /* light gray for links */
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #b0b0b0; /* slightly darker gray on hover */
+}
+
+h1 {
+    color: #666666; /* soft gray-blue tone */
+    margin-top: 20px;
+}
+
+.button {
+    display: inline-block;
+    background-color: #888888; /* muted gray button */
+    color: #f2f2f2; /* off-white text */
+    padding: 10px 20px;
+    margin: 10px;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+.button:hover {
+    background-color: #777777; /* slightly darker gray on hover */
+}
